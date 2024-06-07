@@ -2,7 +2,7 @@
 
 This project demonstrates feature extraction and matching using the ORB (Oriented FAST and Rotated BRIEF) feature detector and FLANN (Fast Library for Approximate Nearest Neighbors) based matcher in OpenCV.
 
-## Overview
+## :star2: Overview
 
 This project leverages the power of computer vision to identify and match keypoints between images in real-time. The ORB feature detector and descriptor is used for efficient and effective feature detection and description. FLANN-based matching is implemented for robust and fast matching of features.
 
