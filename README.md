@@ -37,7 +37,7 @@ This project leverages the power of computer vision to identify and match keypoi
    Feature1.py
 3. The script will access your webcam and start the feature extraction and matching process in real-time. Press 'ESC' to exit.
 
-## Contributing
+## :wave:  Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## :handshake: Contact
